@@ -236,6 +236,15 @@ body {
   margin-bottom: 32px;
 }
 
+.footer {
+  text-align: center;
+  padding: 16px 0;
+  background: #f5f5f5;
+  color: #555;
+  font-size: 0.95em;
+  margin-top: 32px;
+}
+
 @media (max-width: 1100px) {
   .main {
     flex-direction: column;
